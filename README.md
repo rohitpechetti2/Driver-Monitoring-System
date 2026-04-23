@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Driver Monitoring System - Complete Documentation
 
 ## System Architecture
@@ -245,3 +246,6 @@ For Gmail: Enable 2FA → Google Account → Security → App Passwords → Gene
 =======
 # Driver-Monitoring-System
 >>>>>>> de5896b6454a161abfcf0cb017957b44f7267a89
+=======
+# Driver-Monitoring-System
+>>>>>>> 105b4cdea22db394f69e4e1d288324a5b4434b0e
